@@ -6,10 +6,9 @@ git clone https://github.com/Boohkin/Scripts.git
 echo Successfully Cloned Scripts
 cd Scripts
 chmod 777 *
+rm Termux.sh
 clear
-echo Everything Is Setup Now!
-echo .
-echo If You Do Not Know How To Boot Using This
-echo Then Type "cd Scripts" Then Type  "nano help.txt"
+echo Everything Is Setup Now
 echo Thanks For Using My Auto Setup For Booting w Termux 
 echo Follow Me On Instagram @g9ngsta
+echo Type " cd Scripts "
